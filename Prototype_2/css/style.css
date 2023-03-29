@@ -1,15 +1,39 @@
-.torii-gate-logo{
+/* Appears in Navigation Bar */
+img{
     height: 100px;
     width: 100px;
-    padding: 30px;
+}
+
+#website-logo{
+    display: flex;
+}
+
+#website-title {
+    color: #d04539;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none; /* Removes bullets   */
     margin: auto;
- };
+    padding: 100;
+    overflow: hidden;
+    background-color: red;
+    width: 100%;
+}
+li {
+    display: inline;
+}
 
- body {
-    color: #3c3c3c,
- };
+.top-page {
+    position: fixed;
+    top: 0;
+}
 
- .navbar{
+body{
+    color: #3c3c3c;
+}
+
+.navbar{
     color: red;
-
- };
+}
