@@ -1,2 +1,2 @@
-# My First Japan Trip
+# Let's Go To Japan
 Final Project for PUI
