@@ -1,13 +1,26 @@
 /* Appears in Navigation Bar */
 img{
+    height: 300px;
+    width: 300px;
+}
+
+  #content {
+    background-color: aquamarine;
+  } */
+#torii-gate-logo{
     height: 100px;
     width: 100px;
 }
-
+.slide-image{
+    margin: 50%;
+}
 #website-logo{
     display: flex;
 }
-
+p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #website-title {
     color: #d04539;
     text-decoration: none;
@@ -26,8 +39,10 @@ li {
 }
 
 .top-page {
-    position: fixed;
+    position: sticky;
     top: 0;
+    background-color: transparent;
+
 }
 
 body{
