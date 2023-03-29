@@ -4,21 +4,21 @@ img{
     width: 300px;
 }
 
-  #content {
-    background-color: aquamarine;
-  } */
 #torii-gate-logo{
     height: 100px;
     width: 100px;
 }
+
 .slide-image{
     margin: 50%;
 }
+
 #website-logo{
     display: flex;
 }
+
 p{
-    font-size: 30px;
+    font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #website-title {
@@ -51,4 +51,5 @@ body{
 
 .navbar{
     color: red;
+    width: 100%;
 }
