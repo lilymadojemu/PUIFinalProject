@@ -1,8 +1,15 @@
 .torii-gate-logo{
-    box-sizing: border-box; 
-    object-fit: cover;
-    height: auto;
-    width: auto;
+    height: 100px;
+    width: 100px;
     padding: 30px;
     margin: auto;
+ };
+
+ body {
+    color: #3c3c3c,
+ };
+
+ .navbar{
+    color: red;
+
  };
